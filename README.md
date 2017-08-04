@@ -13,8 +13,8 @@ This simple app will help you understand
 - Push this app to Heroku
 - Test the API https://webhook-echo-sample.herokuapp.com/echo - use www.hurl.it to test it
 
-Open API.AI portal - https://api.ai
-- Create an account and login
+Open API.AI portal - www.api.ai
+- To talk to Gapo https://bot.api.ai/tomsajuk
 
 # Video
 Watch this video to learn the steps to create sample application.
